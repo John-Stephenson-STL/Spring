@@ -3,7 +3,7 @@
     <groupId>com.stephenson.spring</groupId>
     <artifactId>spring-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Spring API APP Project</name>
+    <name>Spring API</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
